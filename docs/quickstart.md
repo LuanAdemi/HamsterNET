@@ -9,7 +9,7 @@ Ein neuronales Netz wird durch den Konstruktor `HamsterNET` initialisiert. Die M
 - `int[] neurons`
 - `float learningRate`
 
-Wobei `neurons` ein Array wo die Länge der Anzahle der Layer entspricht und die einzelnen Werte die Anzahl der Neuronen in den Layern und learningRate einen Wert, der die schnelle des Lernen angibt.
+Wobei `neurons` ein Array ist, wo die Länge der Anzahl der Layer und die einzelnen Werte die Anzahl der Neuronen in den Layern entspricht und learningRate einen Wert, der die schnelle des Lernen angibt.
 
 ```java
 int neurons[] = {8, 15, 15, 15, 8};
