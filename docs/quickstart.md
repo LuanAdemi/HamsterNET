@@ -26,8 +26,6 @@ Um das generierte neuronale Netz zu trainieren, wird ein Datensatz benötigt, we
 
 ```java
 // XOR Operationen 
-float inputVector[][] = {{0,0}, {0,1}, {1,0}, {1,1}};
-float outputVector[][] = {{0}, {1}, {1}, {0}};
 ```
 
 Im folgenden wird gezeigt, wie man das neuronale Netz mit dem Datensatz trainiert.
@@ -54,8 +52,6 @@ int neurons[] = {2, 15, 15, 15, 2};
 HamsterNET net = new HamsterNET(neurons,0.7f);
 
 // XOR Operationen 
-float inputVector[][] = {{0,0}, {0,1}, {1,0}, {1,1}};
-float outputVector[][] = {{0}, {1}, {1}, {0}};
 
 int iterations = 500;
 	for (int i=0;i < iterations ; i++)
