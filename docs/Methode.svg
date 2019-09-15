@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Gruppe_1" data-name="Gruppe 1" transform="translate(-130 -151)">
+    <g id="Rechteck_1" data-name="Rechteck 1" transform="translate(130 151)" fill="#24405e" stroke="#0c56c1" stroke-width="4">
+      <rect width="50" height="50" rx="10" stroke="none"/>
+      <rect x="2" y="2" width="46" height="46" rx="8" fill="none"/>
+    </g>
+    <g id="Rechteck_2" data-name="Rechteck 2" transform="translate(134 155)" fill="#24405e" stroke="#6db3fc" stroke-width="4">
+      <rect width="42" height="42" rx="6" stroke="none"/>
+      <rect x="2" y="2" width="38" height="38" rx="4" fill="none"/>
+    </g>
+    <text id="M" transform="translate(143 186)" fill="#fff" font-size="27" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="0">M</tspan></text>
+  </g>
+</svg>

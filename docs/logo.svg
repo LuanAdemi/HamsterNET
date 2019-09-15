@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="990" height="194" viewBox="0 0 990 194">
+  <g id="Gruppe_3" data-name="Gruppe 3" transform="translate(-156.288 -538)">
+    <text id="HamsterNET" transform="translate(156.288 697)" fill="#2f67ff" font-size="163" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">HamsterNET</tspan></text>
+    <g id="hamster" transform="translate(1048.688 543.605)">
+      <path id="Pfad_1" data-name="Pfad 1" d="M0,322.783v6.14H6.14c1.705-1.023,4.707-1.979,6.754-3.207a31.058,31.058,0,0,1-6.244-2.933Z" transform="translate(0 -291.717)" fill="#fbb071"/>
+      <path id="Pfad_2" data-name="Pfad 2" d="M442.274,224.359v-8.787a4.093,4.093,0,1,0-8.187,0v3.017c0,4.01.068,5.1.068,5.784C435.52,224.373,440.7,224.373,442.274,224.359Z" transform="translate(-352.96 -201.089)" fill="#8f5543"/>
+      <g id="Gruppe_1" data-name="Gruppe 1" transform="translate(12.431)">
+        <path id="Pfad_3" data-name="Pfad 3" d="M362.532,249.736a18.482,18.482,0,0,0-1.931-1.513l-6.256-4.257-2.047-1.393-15.9,4.516s-1.228,16.373,13.849,16.373h18.42A18.37,18.37,0,0,0,362.532,249.736Z" transform="translate(-285.65 -226.256)" fill="#fbb071"/>
+        <path id="Pfad_4" data-name="Pfad 4" d="M101.31,190.235l15.333-.138c0-5.712,4.718-12.136,10.37-12.136l.136-7.654a3.985,3.985,0,0,0-1.04-3.062l-7.255-4.99a36.6,36.6,0,0,0-51.248,9.988c.023.044.043.088.065.132C67.672,172.375,95.5,184.365,101.31,190.235Z" transform="translate(-67.606 -155.826)" fill="#fbb071"/>
+      </g>
+      <path id="Pfad_5" data-name="Pfad 5" d="M258.227,277.363V267.13a10.233,10.233,0,0,0-10.233,10.233H234.776c-.9,1.3-2.269,1.979-3.633,3.07,1.5,1.092,3.138,2.183,4.571,3.07h28.653A6.14,6.14,0,0,1,258.227,277.363Z" transform="translate(-187.729 -246.298)" fill="#faeab6"/>
+      <g id="Gruppe_2" data-name="Gruppe 2" transform="translate(6.14 10.599)">
+        <path id="Pfad_6" data-name="Pfad 6" d="M53.858,244.87H39.6A36.635,36.635,0,0,0,33.9,259.2a37.085,37.085,0,0,0-.51,6.14H74.324A20.448,20.448,0,0,0,53.858,244.87Z" transform="translate(-33.391 -238.73)" fill="#c97e67"/>
+        <path id="Pfad_7" data-name="Pfad 7" d="M378.435,215.571v6.14h8.187v-6.14a4.093,4.093,0,0,0-8.187,0Z" transform="translate(-314.988 -211.478)" fill="#c97e67"/>
+      </g>
+    </g>
+  </g>
+</svg>
